@@ -2,8 +2,6 @@
 # Temperature_Converter_Website
 This repository contains the source code and assets for a portfolio website built using HTML, JavaScript, and CSS.
 
-Link : https://lakshayrao2301.github.io/Temperature-Converter-Website/
-
 The website serves as a showcase for your work and provides information about your skills, projects, and contact details.
 
 # Features
@@ -49,13 +47,4 @@ Feel free to modify and customize the code according to your requirements.
 * The js/ directory contains the JavaScript code for the website.
 * The root directory contains the HTML files for different sections of the website.
 
-# Deployment
-To deploy your website, you have options:
 
-* GitHub Pages: Push your code to a GitHub repository and enable GitHub Pages to host your website.
-
-# Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-# License
-This project is licensed under the MIT License.
