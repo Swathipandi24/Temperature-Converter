@@ -20,7 +20,7 @@ The website serves as a showcase for your work and provides information about yo
 * VsCode
  
 # How to Use
-1. Clone the repository: git clone https://github.com/lakshayrao2301/OIBSIP-Task-3-Temperature_Converter_Website.git
+1. Clone the repository
 2. Open the index.html file in a web browser.
 3. Enter a temperature value in the input field.
 4. Select the input unit from the dropdown menu.
